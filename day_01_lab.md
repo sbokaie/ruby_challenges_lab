@@ -1,6 +1,6 @@
 # Intro to Ruby Lab
 
-For this lab, we'd like you to complete a few challenges to reinforce your knowledge of integers, strings, arrays and booleans as well as iterators.
+For this lab, we'd like you to complete a few challenges to reenforce your knowledge of integers, strings, arrays and booleans as well as iterators.
 
 ### Challenge 1 - Temperature Converter
 
@@ -85,7 +85,7 @@ Create an array of students and allow the user to keep adding new students to th
 ```
 Would you like to add another student?
 yes
-What is the student's name?
+What is the student name?
 Taco
 The array of instructors now looks like: ["Taco"]
 Would you like to add another student?
